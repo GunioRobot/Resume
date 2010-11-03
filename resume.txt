@@ -1,36 +1,27 @@
-# Nathaniel Welch
+# Patrick Kettner 
 
- * <nat@natwelch.com>
- * <http://natwelch.com>
- * 707-799-8675
+ * <pdjk@patrickkettner.com>
+ * <http://patrickkettner.com>
+ * 253-234-5672 
 
 ## Background
 
-I am a current student of Computer Science at Cal Poly with an interest in
-communication and design. I am a big believer in experimenting with new things
-to expand my knowledge both professionally and recreationally. I strive to be a
-quick learner and both a competent leader and capable worker. I am an Eagle
-Scout and was an active officer of the Cal Poly Linux Users Group for three
-years. I was awarded Cal Poly's Residence Hall Council member of the year for
-both 2006 and 2007.
+Computer nut and web enthusist, and have been one since I was about 7 or so. I have been using Linux since the turn of the millennium, and am about to receive my LPI certification. I have been working on both personal servers and small systems for personal use and small companies for a number of years. I have a deep passion for networking, both with server-side maintenance, as well as router configuration. I worked unofficially with Costco's computer repair department as a Linux expert, being brought in to resurrect data from corrupted windows partitions, as well as a technical support liaison for the department. Currently I am in school, working on a bachelors in Computer Science.
 
-## Education
+This is due to my ability to learn and adapt quickly, a positive outlook and desire for excellence in my work. I have no problems working long, odd hours, or with being tasked with large jobs. All of these positions require direct contact with customers on a daily basis, if not for the entirety of the shift. I love solving puzzles, and often get sent to customers homes in order to repair and reconfigure electronic components.
 
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
 
 ## Systems Proficiency
 
 **Programming Languages**
 
- > Proficient in:  PHP, Ruby, SML/NJ, HTML, CSS, JavaScript, C, Java, SQL (MySQL, SQLite), Bash
+ > Proficient in:  Python, PHP, Ruby, HTML, CSS, JavaScript, SQL (MySQL, SQLite), Bash
 
- > Experience with: F#, Python, C++, MongoDB
+ > Experience with: C++, MongoDB
 
 **Software**
 
- > I have experience using most modern development tools including Eclipse, Vim, Git and SVN. I have been using Linux for both personal and server use since 2002. I am also capable of using the majority of the Adobe Creative Suite.
+ > 16 years of Windows expirence, 10 of Linux, 3 of OS X, 2 of FreeBSD. I prefer editing in Vim, however I am quite comfortable with Emacs, as well as most popular IDEs (Eclipse, NetBeans).  
 
 ## Experience
 
